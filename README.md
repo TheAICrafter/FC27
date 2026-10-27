@@ -9,7 +9,7 @@ This repository provides a debloated NVIDIA driver package prepared as part of t
 
 ## ⬇️ DOWNLOAD
 
-### **[DOWNLOAD THE LATEST DRIVER RELEASE →](https://github.com/theaicrafter/FC27-optimization/releases/latest)**
+### **[DOWNLOAD THE LATEST DRIVER RELEASE →](https://github.com/theaicrafter/FC27/releases/latest)**
 
 Download the ZIP archive from the **Assets** section of the latest release.
 
